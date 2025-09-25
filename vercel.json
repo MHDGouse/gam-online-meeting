@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install --prefer-online --force && npm run build",
+  "installCommand": "npm install --prefer-online --force"
+}
